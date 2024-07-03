@@ -16,5 +16,5 @@ The Task Manager API is designed to provide a robust backend solution for managi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-api.git
+   git clone https://github.com/Nick3344/task-manager-api
    cd task-manager-api
