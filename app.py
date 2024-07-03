@@ -1,4 +1,4 @@
-from app import create_app, db      
+from app import create_app, db     
 from app.resources import TaskResource, TaskListResource, UserRegister, UserLogin
 from app import api
 from app.swagger import swaggerui_blueprint
